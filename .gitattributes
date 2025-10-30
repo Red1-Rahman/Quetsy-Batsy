@@ -1,2 +1,2 @@
-prototype_asset.bin filter=lfs diff=lfs merge=lfs -text
+
 QuetsyBatsy.exe filter=lfs diff=lfs merge=lfs -text
